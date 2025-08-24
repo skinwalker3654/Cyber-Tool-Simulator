@@ -30,7 +30,7 @@ The tool simulates multiple modules with flashy UI effects:
 
 ## Screenshots
 
-*(Add screenshots of the UI if desired)*
+![alt text](https://github.com/skinwalker3654/stack-cli/blob/main/.github/screenshot.png?raw=true)
 
 ---
 
