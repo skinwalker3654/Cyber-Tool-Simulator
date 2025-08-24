@@ -30,7 +30,7 @@ The tool simulates multiple modules with flashy UI effects:
 
 ## Screenshots
 
-![alt text](https://github.com/skinwalker3654/stack-cli/blob/main/.github/screenshot.png?raw=true)
+![alt text](https://github.com/skinwalker3654/Cyber-Tool-Simulator/blob/main/.github/screenshot.png?raw=true)
 
 ---
 
