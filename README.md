@@ -57,3 +57,5 @@ make run  #runs the program
 make clean
 ```
 # Cyber-Tool-Simulator
+
+Desclaimer: This program is not writen by me. I just wanted to publish it.
